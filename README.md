@@ -8,9 +8,9 @@
 - 💬 Ask me about anything you see on my public profiles
 - 🚶🏾‍♂️ I like to take long walks but never walking alone
 -  ⚡ Fun fact: I love ceaser salad
-- 🤔 If you correctly guess the football club I support, I'd buy you coffee :(
+- 🤔 If you correctly guess the football club I support, may buy you coffee :(
 
 
  <!--
 A short intro about me
---⚽️>
+-->
